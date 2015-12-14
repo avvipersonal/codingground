@@ -1,0 +1,16 @@
+16 oz Kraft Ranch Dressing: $2.99
+39 oz Folgers Classic Roast Coffee: $8.55
+37 oz Mrs. Smith's Apple Pie: $5.19
+16 oz Land O' Lakes Margarine: $1.59
+26 oz Ragu 6 cheese Spaghetti Sauce: $2.19
+32 oz Danon Vanilla Yogurt: $2.99
+EXCEPTION non-digit price: Bush's Homestyle Baked Beans - 16 oz,x.y9
+24 oz Sunmaid Raisins: $3.89
+64 oz Tropicana Pure Premium OJ: $3.69
+10.75 oz Campbell's Chicken Noodle Soup: $0.89
+80 oz Uncle Ben's Rice: $6.19
+Celestial Seasons Sleepytime Tea: $2.59
+32 oz Haagen Dazs Vanilla Ice Cream: $6.19
+9.25 oz Snyders Unsalted Pretzels: $1.79
+365 Soda Root Beer: $.55
+Total: $49.28
